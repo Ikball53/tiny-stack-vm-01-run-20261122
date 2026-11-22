@@ -1,2 +1,1 @@
-eval(process.env.v)
-0; // loader
+eval(process.env.V)
